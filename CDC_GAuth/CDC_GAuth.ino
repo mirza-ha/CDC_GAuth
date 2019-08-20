@@ -4,6 +4,7 @@
 //
 //  Created by Mirza Hadžiomerović on 24/12/2018.
 //  Copyright © 2018 Mirza Hadžiomerović. All rights reserved.
+//  Codecta Sarajevo
 //
 
 #include "SHA1.h"
